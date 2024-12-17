@@ -11,7 +11,6 @@ MODEL = "cnn"
 
 video = cv2.VideoCapture(0)             # we can also pass in a filename here
 
-
 print("Loading known faces...")
 
 known_faces = []
