@@ -24,9 +24,9 @@ This Python script implements a basic face recognition system using the `face_re
 2. Place unknown face images in the `unknown_faces` directory.
 3. Install the necessary dependencies.
     ```bash
-        pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 4. Run the script.
     ```bash
-        python face_rec_example.py
+    python face_rec_example.py
     ```
