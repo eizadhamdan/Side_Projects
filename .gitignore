@@ -2,3 +2,4 @@
 /.idea
 /Product_Store/.idea
 /Product_Store/node_modules
+Product_Store/.env
